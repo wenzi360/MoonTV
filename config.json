@@ -15,9 +15,13 @@
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-     "wenzi": {
-      "api": "https://wg.140537.xyz/api.php/provide/vod",
-      "name": "蚊子影视"
+     "xingba": {
+      "api": "https://sex8zy8.com/api.php/provide/vod",
+      "name": "杏吧资源"
+    },
+    "yutu": {
+      "api": "https://yutuzy.com/api.php/provide/vod",
+      "name": "玉兔资源"
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
